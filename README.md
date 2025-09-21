@@ -1,4 +1,4 @@
-# Clase 4 – Aprendizaje Automático (Regresión lineal y logística)
+# Tarea Clase 4 – Aprendizaje Automático (Regresión lineal y logística)
 **Autora:** Julieta Cassano
 
 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](
